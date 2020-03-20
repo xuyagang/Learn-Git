@@ -1,4 +1,3 @@
 Hello world!
 Succed!
 Start to test rebase
-Rebase test start.
