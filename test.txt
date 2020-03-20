@@ -1,3 +1,5 @@
 Hello world!
 Succed!
 prepared to do rebase
+Rebase starting
+Rebase starting
