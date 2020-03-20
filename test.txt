@@ -1,3 +1,3 @@
 Hello world!
 Succed!
-Rebase test start.
+Rebase test.
