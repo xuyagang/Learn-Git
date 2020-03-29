@@ -4,3 +4,4 @@ Hello world, I'm comming!
 I love you!
 Git track changes of files.
 Creating a new branch is quick and simple.
+Master-readme-add cherry-pick
