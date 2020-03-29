@@ -5,3 +5,4 @@ prepared to do rebase
 Rebase starting
 Rebase starting
 git cherry-pick test
+Rebase test1
